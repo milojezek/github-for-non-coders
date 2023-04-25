@@ -19,7 +19,11 @@ GitHub is a platform mainly used (and loved) by developers and people learning t
 | `issue`       | Issue/task-tracking system within repo with various functions |
 | `pull request`| Let others know about changes you want to push; Checking, reviewing...  |
 
-- 📄 [GitHub Documentation](https://docs.github.com/en)
+📄 $~~~$ [GitHub Documentation](https://docs.github.com/en)
+
+👀 $~~$ [GitHub Skills](https://skills.github.com/)
+
+👀 $~~$ [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 
 ## Markdown
 - Sophisticated way of text formatting

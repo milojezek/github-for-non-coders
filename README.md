@@ -18,7 +18,7 @@ GitHub is a platform mainly used (and loved) by developers and people learning t
 | `push`        | Transfering data from local to remote repo |
 | `issue`       | Issue/task-tracking system within repo with various functions |
 | `pull request`| Let others know about changes you want to push; Checking, reviewing...  |
-| 📄 $~~~$ [GitHub Documentation](https://docs.github.com/en) | 👀 [GitHub Skills](https://skills.github.com/) 👀 [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) 👀 |
+| Study material | 📄 [GitHub Documentation](https://docs.github.com/en) 👀 [GitHub Skills](https://skills.github.com/) 👀 [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) |
 
 ## Markdown
 - Sophisticated way of text formatting

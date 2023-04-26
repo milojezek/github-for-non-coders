@@ -3,22 +3,24 @@
 ## GitHub Introduction
 GitHub is a platform mainly used (and loved) by developers and people learning to code. However, even people who don't work with code can find a lot of interesting tools here. It can boost collaboration between developers and non-developers, especially if they are in the same team. But whatever you work with developers or not, GitHub is a great alternative to many collaborative apps and tools.
 
+> "A good tool improves the way you work. A great tool improves the way you think." ~ Jeff Duntemann
+
 
 ### GitHub Basics
 
-| Term          | Explanation |
-| ------------- | ------------- |
-| `repository` / `repo`  | Contains all project's files and each file's revision history; Can be local or remote           |
-| `readme`      | File that contains information about the other files/project/app  |
-| `markdown`    | Markup language that used for formatting texts  |
-|  `commit`     | Individual change to a file with name, description within repo  |
-| `branch`      | Unique set of code/file with own commits etc. in the same repo |
-| `merge`       | Simply said, putting two branches together |
-| `pull`        | Receive data from remote GitHub repo  |
-| `push`        | Transfering data from local to remote repo |
-| `issue`       | Issue/task-tracking system within repo with various functions |
-| `pull request`| Let others know about changes you want to push; Checking, reviewing...  |
-| Study material | 📄 [GitHub Documentation](https://docs.github.com/en) 👀 [GitHub Skills](https://skills.github.com/) 👀 [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) |
+| Term                    | Explanation   |
+| ----------------------- | ------------- |
+| `repository` / `repo`   | Contains all project's files and each file's revision history; Can be local or remote           |
+| `readme`                | File that contains information about the other files/project/app  |
+| `markdown`              | Markup language that used for formatting texts  |
+|  `commit`               | Individual change to a file with name, description within repo  |
+| `branch`                | Unique set of code/file with own commits etc. in the same repo |
+| `merge`                 | Simply said, putting two branches together |
+| `pull`                  | Receive data from remote GitHub repo  |
+| `push`                  | Transfering data from local to remote repo |
+| `issue`                 | Issue/task-tracking system within repo with various functions |
+| `pull request`          | Let others know about changes you want to push; Checking, reviewing...  |
+| Study material          | 📄 [GitHub Documentation](https://docs.github.com/en) 👀 [GitHub Skills](https://skills.github.com/) 👀 [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) |
 
 ## Markdown
 - Sophisticated way of text formatting

@@ -4,7 +4,7 @@
 GitHub is a platform mainly used (and loved) by developers and people learning to code. However, even people who don't work with code can find a lot of interesting tools here. It can boost collaboration between developers and non-developers, especially if they are in the same team. But whatever you work with developers or not, GitHub is a great alternative to many collaborative apps and tools.
 
 
-### GitHub Minimum
+### GitHub Basics
 
 | Term          | Explanation |
 | ------------- | ------------- |

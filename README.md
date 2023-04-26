@@ -35,7 +35,7 @@ GitHub is a platform mainly used (and loved) by developers and people learning t
 ## ✍️ [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Sophisticated way of text formatting
 - Can be used in GitHub, Google Docs, and many other editors
-- Super-easy-to-use shortcuts (slash command is coming)
+- Super-easy-to-use shortcuts ([slash command](https://github.blog/changelog/2023-03-15-introducing-the-github-markdown-helpers-public-beta/) is coming)
 - Combinable with HTML
 
 

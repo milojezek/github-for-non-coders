@@ -1,6 +1,5 @@
 # GitHub for Non-coders
 
-## GitHub Introduction
 GitHub is a platform mainly used (and loved) by developers and people learning to code. However, even people who don't work with code can find a lot of interesting tools here. It can boost collaboration between developers and non-developers, especially if they are in the same team. But whatever you work with developers or not, GitHub is a great alternative to many collaborative apps and tools.
 
 > "A good tool improves the way you work. A great tool improves the way you think." ~ Jeff Duntemann
@@ -20,8 +19,11 @@ GitHub is a platform mainly used (and loved) by developers and people learning t
 | `push`                  | Transfering data from local to remote repo |
 | `issue`                 | Issue/task-tracking system within repo with various functions |
 | `pull request`          | Let others know about changes you want to push; Checking, reviewing...  |
-| Study material          | 📄 [GitHub Documentation](https://docs.github.com/en) 👀 [GitHub Skills](https://skills.github.com/) 👀 [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) |
 
+
+***Study material*** >>> 📄 [GitHub Documentation](https://docs.github.com/en) 👀 [GitHub Skills](https://skills.github.com/) 👀 [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+
+<br/><br/>
 
 ## 📄 [Readmes & Wikis](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - Ideal for sharing accessible information and documentation

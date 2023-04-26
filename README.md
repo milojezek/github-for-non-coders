@@ -34,9 +34,9 @@ GitHub is a platform mainly used (and loved) by developers and people learning t
 
 ## ✍️ [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Sophisticated way of text formatting
-  - Can be used in GitHub, Google Docs, and many other editors
-- Super-easy-to-use shortcuts (+ even easier writing with slash command is coming)
-- Can be combined with HTML
+- Can be used in GitHub, Google Docs, and many other editors
+- Super-easy-to-use shortcuts (slash command is coming)
+- Combinable with HTML
 
 
 ## 🔥 [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
@@ -46,7 +46,7 @@ GitHub is a platform mainly used (and loved) by developers and people learning t
 
 
 ## 🙏 [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-- Way of telling others about changes you intend to push to the repository
+- Way of telling others about changes you made
 - It can/should be discussed and reviewed by others
 - Additional changes can be add
 

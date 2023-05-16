@@ -5,7 +5,7 @@
   - GitHub is used more and more for team collaboration -> how
   - You'll ba able to collaborate better with developers on "their" platform
   - GitHub runs in browser, you can access it anywhere with access to the internet
-  - GitHub is owned and backend/developed by Microsoft
+  - GitHub is owned and backend/developed by Microsoft 1
 
 
 ### READMEs & Wikis

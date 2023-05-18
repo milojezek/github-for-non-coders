@@ -75,5 +75,5 @@ GitHub is a platform mainly used (and loved) by developers and people learning t
 
 #### Tasks
 - [x] Brainstorming, project
-- [ ] Main readme
-- [ ] Powerpoint presentation
+- [x] Main readme
+- [x] Powerpoint presentation
